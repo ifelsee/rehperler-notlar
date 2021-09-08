@@ -4,4 +4,4 @@ to generate this ramdom char
 
 
 Generating random number in the range 0-256 
-	`255-0 aralığında random sayı oluşturma`
+	`$((RANDOM%256))`
